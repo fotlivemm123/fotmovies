@@ -1,0 +1,24 @@
+[
+  {
+  "movieName":"The Ice Age Adventures of Buck Wild",
+    "img":"http://zegomovie.com/Uploads/vod/2022-02-18/620f5e56ac552.jpg",
+    "downloadLink":"https://download.myanmarsubmovie.com/wp-content/uploads/2022/The%20Ice%20Age%20Adventures%20of%20Buck%20Wild.mp4",
+    "playLink": [ {"link": "http://www.zegomovie.com/Videos/TheIceAgeAdventuresofBuckWild/index.m3u8"},{"link": "https://download.myanmarsubmovie.com/wp-content/uploads/2022/The%20Ice%20Age%20Adventures%20of%20Buck%20Wild.mp4"}],
+    
+  },
+  {
+  "movieName":"Checkered Ninja 2",
+    "img":"https://www.themoviedb.org/t/p/w500/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg",
+    "downloadLink":"https://download.myanmarsubmovie.com/wp-content/uploads/2022/2/Checkered%20Ninja%202/V/Checkered%20Ninja%202.mp4",
+    "playLink": [ {"link": "https://download.myanmarsubmovie.com/wp-content/uploads/2022/2/Checkered%20Ninja%202/V/Checkered%20Ninja%202.mp4"}],
+    
+  },
+  {
+  "movieName":"The Ice Age Adventures of Buck Wild",
+    "img":"http://zegomovie.com/Uploads/vod/2022-03-18/623451dacf0b2.jpg",
+    "downloadLink":"https://download.myanmarsubmovie.com/wp-content/uploads/2022/2/Turning%20Red/V/Turning%20Red.mp4",
+    "playLink": [ {"link": "http://www.zegomovie.com/Videos/TurningRed/index.m3u8"},{"link": "https://download.myanmarsubmovie.com/wp-content/uploads/2022/2/Turning%20Red/V/Turning%20Red.mp4"}],
+    
+  }
+  
+]
