@@ -2,6 +2,19 @@
 
 
   {
+    "type": "India",
+    "movies": [
+  {
+
+  "movieName":"Anek",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-21/62d8c71042101.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Anek/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Anek/index.m3u8"
+    
+  }
+]
+},
+  {
     "type": "Action",
     "movies": [
   {
