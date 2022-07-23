@@ -135,7 +135,7 @@
 ]
 },
   {
-    "type": "Action",
+    "type": "Animation",
     "movies": [
   {
   "movieName":"The Ice Age Adventures of Buck Wild",
@@ -159,13 +159,46 @@
     
   },
 {
-  "movieName":"Spiderhead",
-    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c797ae3e5f7.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Spiderhead/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Download/Spiderhead/Spiderhead.mp4"
+  "movieName":"Mad God",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-09/62c92c2112227.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/MadGod/MadGod.mp4",
+    "playLink": "http://www.zegomovie.com/Download/MadGod/MadGod.mp4"
+    
+  },
+{
+  "movieName":"Bubble",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-17/628333a2ef2d7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Bubble/Bubble.mp4",
+    "playLink": "http://www.zegomovie.com/Videos/Bubble/index.m3u8"
+    
+  },
+{
+  "movieName":"The Bad Guys",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-20/6287273ea3170.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheBadGuys/TheBadGuys.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheBadGuys/TheBadGuys.mp4"
+    
+  },
+{
+  "movieName":"Pinocchio: A True Story",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-10/627a29675199e.jpg",
+    "downloadLink":"http://zegomovie.com/Uploads/vod/2022-05-10/627a29675199e.jpg",
+    "playLink": "http://zegomovie.com/Uploads/vod/2022-05-10/627a29675199e.jpg"
+    
+  },{
+  "movieName":"Fireheart",
+    "img":"http://zegomovie.com/Uploads/vod/2022-03-03/6220316220bab.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Fireheart/Fireheart.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Fireheart/Fireheart.mp4"
+    
+  },{
+  "movieName":"The Adventures of Peanut and Pig",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-19/6285eab157ffd.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheAdventuresofPeanutandPig/TheAdventuresofPeanutandPig.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheAdventuresofPeanutandPig/TheAdventuresofPeanutandPig.mp4"
     
   }
-  
+
 ]
   },
   
