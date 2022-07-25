@@ -2,7 +2,48 @@
 {
     "type": "Action",
     "movies": [
-  
+  {
+  "movieName":"A MAN CALLED HERO (2022)",
+    "img":"https://www.mflixth.com/mfmposter/216782.jpg",
+    "downloadLink":"http://api.mc2cr.com/api/movie?watch=EBA6E1DDB0EA",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=EBA6E1DDB0EA"
+    
+  },
+{
+  "movieName":"HOT SEAT (2022)",
+    "img":"https://www.mflixth.com/mfmposter/717261.jpg",
+    "downloadLink":"http://api.mc2cr.com/api/movie?watch=GdMncktU4NO81a18b3a-a26b-4eb9-a10f-50b7f1a6aa11",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=GdMncktU4NO81a18b3a-a26b-4eb9-a10f-50b7f1a6aa11"
+    
+  },
+{
+  "movieName":"THE MAN FROM TORONTO (2022)",
+    "img":"https://www.mflixth.com/mfmposter/395144.jpg",
+    "downloadLink":"http://api.mc2cr.com/api/movie?watch=net7VUxd1N0909f0f1e-533b-4a31-97c3-b1da2faab015",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=net7VUxd1N0909f0f1e-533b-4a31-97c3-b1da2faab015"
+    
+  },
+{
+  "movieName":"AMERICAM CARNAGE (2022)",
+    "img":"https://www.mflixth.com/mfmposter/741332.jpg",
+    "downloadLink":"http://api.mc2cr.com/api/movie?watch=UnGTbNChAxQ43039a10-5813-4087-aba3-c456b1385d93",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=UnGTbNChAxQ43039a10-5813-4087-aba3-c456b1385d93"
+    
+  },
+{
+  "movieName":"BEST YEARS GONE (2021)",
+    "img":"https://www.mflixth.com/mfmposter/774621.jpg",
+    "downloadLink":"http://api.mc2cr.com/api/movie?watch=zAKRyomkvD8574e8b18-93f2-46ef-af49-a1a5986d987e",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=zAKRyomkvD8574e8b18-93f2-46ef-af49-a1a5986d987e"
+    
+  },
+{
+  "movieName":"BLOWBACK (2022)",
+    "img":"https://www.mflixth.com/mfmposter/714099.jpg",
+    "downloadLink":"http://api.mc2cr.com/api/movie?watch=ZfjCn0r3Pkwc6a20475-acde-413b-aadf-cd2a0f95b398",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=ZfjCn0r3Pkwc6a20475-acde-413b-aadf-cd2a0f95b398"
+    
+  },
 {
   "movieName":"Blowback",
     "img":"http://zegomovie.com/Uploads/vod/2022-07-23/62db74e93eb5c.jpg",
