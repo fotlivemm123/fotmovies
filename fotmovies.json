@@ -1,7 +1,12 @@
 [
-
-
 {
+
+    "type": "ACTION",
+    "movies": [
+  {
+
+
+
   "movieName":"Blowback",
     "img":"http://zegomovie.com/Uploads/vod/2022-07-23/62db74e93eb5c.jpg",
     "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
