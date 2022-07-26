@@ -140,6 +140,13 @@
   {
     "type": "Animation",
     "movies": [
+        {
+  "movieName":"The Sea Beast",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-26/62dfb70a90f9f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheSeaBeast/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheSeaBeast/index.m3u8"
+    
+  },
   {
   "movieName":"The Ice Age Adventures of Buck Wild",
     "img":"http://zegomovie.com/Uploads/vod/2022-02-18/620f5e56ac552.jpg",
