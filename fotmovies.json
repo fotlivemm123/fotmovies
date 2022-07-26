@@ -8,10 +8,241 @@
 
 
   "movieName":"Blowback",
-    "img":"https://i.postimg.cc/WzwWVM5P/IMG-20220724-140020-699.jpg",
-    "downloadLink":"",
-    "playLink": ""
-}
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-23/62db74e93eb5c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+    
+  },
+{
+  "movieName":"The Man From Toronto",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-21/62d90e230b4cc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheManFromToronto1/TheManFromToronto1.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheManFromToronto1/TheManFromToronto1.mp4"
+    
+  },
+{
+  "movieName":"Spiderhead",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c797ae3e5f7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Spiderhead/Spiderhead.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Spiderhead/Spiderhead.mp4"
+    
+  },
+{
+  "movieName":"Wolf Hound",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c793ae1ff9e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/WolfHound/WolfHound.mp4",
+    "playLink": "http://www.zegomovie.com/Download/WolfHound/WolfHound.mp4"
+    
+  },
+{
+  "movieName":"The Unbearable Weight of Massive Talent",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c790d0b9d17.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheUnbearableWeightofMassiveTalent/TheUnbearableWeightofMassiveTalent.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheUnbearableWeightofMassiveTalent/TheUnbearableWeightofMassiveTalent.mp4"
+    
+  },
+{
+  "movieName":"Double Threat",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c78e1a831a3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/DoubleThreat/DoubleThreat.mp4",
+    "playLink": "http://www.zegomovie.com/Download/DoubleThreat/DoubleThreat.mp4"
+    
+  },
+{
+  "movieName":"White Elephant",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-18/62ad7c3e3e387.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/WhiteElephant/WhiteElephant.mp4",
+    "playLink": "http://www.zegomovie.com/Download/WhiteElephant/WhiteElephant.mp4"
+    
+  },
+{
+  "movieName":"Last Seen Alive",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-18/62ad72ffd83b0.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/LastSeenAlive/LastSeenAlive.mp4",
+    "playLink": "http://www.zegomovie.com/Download/LastSeenAlive/LastSeenAlive.mp4"
+    
+  }
+]
+},
+
+
+  {
+
+    "type": "India",
+    "movies": [
+  {
+
+  "movieName":"Anek",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-21/62d8c71042101.jpg",
+    "downloadLink":"https://www.mediafire.com/file/op0yxlmi0tks3mg/You_Are_Not_My_Mother_2022.mp4/file",
+    "playLink": "http://www.zegomovie.com/Videos/Anek/index.m3u8"
+    
+  },
+{
+  "movieName":"Ayngaran",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c79414f10a7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Ayngaran/Ayngaran.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Ayngaran/Ayngaran.mp4"
+    
+  },
+{
+  "movieName":"Sarkaru Vaari Paata",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-20/62b000cab467e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/SarkaruVaariPaata/SarkaruVaariPaata.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SarkaruVaariPaata/SarkaruVaariPaata.mp4"
+    
+  },
+{
+  "movieName":"Heropanti 2",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-16/62aab37614f83.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Heropanti2/Heropanti2.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Heropanti2/Heropanti2.mp4"
+    
+  },
+{
+  "movieName":"Attack",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-15/62a98385d1210.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Attack/Attack.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Attack/Attack.mp4"
+    
+  },
+{
+  "movieName":"Saani Kaayidham",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-03/6299d12e37ff5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/SaaniKaayidham/SaaniKaayidham.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SaaniKaayidham/SaaniKaayidham.mp4"
+    
+  },
+{
+  "movieName":"Acharya",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-01/6296d24981921.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Acharya/Acharya.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Acharya/Acharya.mp4"
+    
+  },
+{
+  "movieName":"Beast",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-25/628de16cce4da.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Beast2022/Beast2022.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Beast2022/Beast2022.mp4"
+    
+  },
+{
+  "movieName":"Thar",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-24/628c9f17c05ca.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Thar/Thar.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Thar/Thar.mp4"
+    
+  }
+
+]
+},
+  {
+    "type": "Animation",
+    "movies": [
+  {
+  "movieName":"The Ice Age Adventures of Buck Wild",
+    "img":"http://zegomovie.com/Uploads/vod/2022-02-18/620f5e56ac552.jpg",
+    "downloadLink":"https://download.myanmarsubmovie.com/wp-content/uploads/2022/2022/Movies/The%20Sea%20Beast/small/The%20Sea%20Beast.mp4",
+    "playLink": "http://www.zegomovie.com/Videos/TheIceAgeAdventuresofBuckWild/index.m3u8"
+    
+  },
+  {
+  "movieName":"Checkered Ninja 2",
+    "img":"https://www.themoviedb.org/t/p/w500/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg",
+    "downloadLink":"https://ko.htay.workers.dev/0:/-Htay/1.Latest%20Movies/#April,%202022/3.4.2022/Checkered.Ninja.2.2021.720p.CM.WEBRip.mp4",
+    "playLink":  "https://ko.htay.workers.dev/0:/-Htay/1.Latest%20Movies/#April,%202022/3.4.2022/Checkered.Ninja.2.2021.720p.CM.WEBRip.mp4"
+    
+  },
+  {
+  "movieName":"Turning Red",
+    "img":"http://zegomovie.com/Uploads/vod/2022-03-18/623451dacf0b2.jpg",
+    "downloadLink":"https://ko.htay.workers.dev/0:/-Htay/1.Latest%20Movies/#March,%202022/13.3.2022/Turning.Red.2022.720p.WEB%20DL(CM).mp4",
+    "playLink": "http://www.zegomovie.com/Videos/TurningRed/index.m3u8"
+    
+  },
+{
+  "movieName":"Mad God",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-09/62c92c2112227.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/MadGod/MadGod.mp4",
+    "playLink": "http://www.zegomovie.com/Download/MadGod/MadGod.mp4"
+    
+  },
+{
+  "movieName":"Bubble",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-17/628333a2ef2d7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Bubble/Bubble.mp4",
+    "playLink": "http://www.zegomovie.com/Videos/Bubble/index.m3u8"
+    
+  },
+{
+  "movieName":"The Bad Guys",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-20/6287273ea3170.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheBadGuys/TheBadGuys.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheBadGuys/TheBadGuys.mp4"
+    
+  },
+{
+  "movieName":"Pinocchio: A True Story",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-10/627a29675199e.jpg",
+    "downloadLink":"http://zegomovie.com/Uploads/vod/2022-05-10/627a29675199e.jpg",
+    "playLink": "http://zegomovie.com/Uploads/vod/2022-05-10/627a29675199e.jpg"
+    
+  },{
+  "movieName":"Fireheart",
+    "img":"http://zegomovie.com/Uploads/vod/2022-03-03/6220316220bab.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Fireheart/Fireheart.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Fireheart/Fireheart.mp4"
+    
+  },{
+  "movieName":"The Adventures of Peanut and Pig",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-19/6285eab157ffd.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheAdventuresofPeanutandPig/TheAdventuresofPeanutandPig.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheAdventuresofPeanutandPig/TheAdventuresofPeanutandPig.mp4"
+    
+  }
+
+]
+  },
+  
+  {
+    "type": "Horror",
+    "movies": [
+  {
+  "movieName":"They Live in The Grey",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-15/62d0ec8238183.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheyLiveinTheGrey/TheyLiveinTheGrey.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheyLiveinTheGrey/TheyLiveinTheGrey.mp4"
+    
+  },
+{
+  "movieName":"The Overnight",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c7908fe1968.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheOvernight/TheOvernight.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheOvernight/TheOvernight.mp4"
+    
+  },
+{
+  "movieName":"Hatching",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-01/6296ec02bc7b8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Hatching/Hatching.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Hatching/Hatching.mp4"
+    
+  },
+{
+  "movieName":"Dark Cloud",
+    "img":"http://zegomovie.com/Uploads/vod/2022-06-02/62982ed69cbd8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/DarkCloud/DarkCloud.mp4",
+    "playLink": "http://www.zegomovie.com/Download/DarkCloud/DarkCloud.mp4"
+    
+  },
+{
+  "movieName":"The Twin",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-30/629492b77c2f1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheTwin/TheTwin.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheTwin/TheTwin.mp4"
+    
+  }
 ]
 }
 ]
