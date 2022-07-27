@@ -1,7 +1,65 @@
 [
+    {
+
+    "type": "China",
+    "movies": [
     
+    {
+  "movieName":"Piercing Heart Sword",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-26/62dfbcde722a9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/PiercingHeartSword/PiercingHeartSword.mp4",
+    "playLink": "http://www.zegomovie.com/Download/PiercingHeartSword/PiercingHeartSword.mp4"
     
+  },
+ {
+  "movieName":"The Exorcist",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-26/62df856b59892.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheExorcist/TheExorcist.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheExorcist/TheExorcist.mp4"
     
+  },
+{
+  "movieName":"The God Of War",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-26/62df5c2f25d61.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheGodOfWar/TheGodOfWar.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheGodOfWar/TheGodOfWar.mp4"
+    
+  },
+{
+  "movieName":"Barefoot Immortal",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-25/62de6571b1831.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/BarefootImmortal/BarefootImmortal.mp4",
+    "playLink": "http://www.zegomovie.com/Download/BarefootImmortal/BarefootImmortal.mp4"
+    
+  },
+{
+  "movieName":"Folk Legends: The Water Monkeys",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-25/62de418142c66.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/FolkLegendsTheWaterMonkeys/FolkLegendsTheWaterMonkeys.mp4",
+    "playLink": "http://www.zegomovie.com/Download/FolkLegendsTheWaterMonkeys/FolkLegendsTheWaterMonkeys.mp4"
+    
+  },
+{
+  "movieName":"Novo Land : Floating Heart",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-22/62da656690987.png",
+    "downloadLink":"http://www.zegomovie.com/Download/NovoLandFloatingHeart/NovoLandFloatingHeart.mp4",
+    "playLink": "http://www.zegomovie.com/Download/NovoLandFloatingHeart/NovoLandFloatingHeart.mp4"
+    
+  },
+{
+  "movieName":"Golden Spider City",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-21/62d8d64f69aef.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/GoldenSpiderCity/GoldenSpiderCity.mp4",
+    "playLink": "http://www.zegomovie.com/Download/GoldenSpiderCity/GoldenSpiderCity.mp4"
+    
+  }
+]
+}
+
+
+
+
+
 {
 
     "type": "Action",
