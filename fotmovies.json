@@ -329,6 +329,55 @@
     "type": "India",
     "movies": [
 {
+  "movieName":"Bro Daddy",
+    "img":"http://zegomovie.com/Uploads/vod/2022-02-18/620f44b35a097.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/BroDaddy/BroDaddy.mp4",
+    "playLink": "http://www.zegomovie.com/Download/BroDaddy/BroDaddy.mp4"
+    
+  },
+ {
+  "movieName":"KHAMOSHIYAN",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced0923d4b83.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/KHAMOSHIYAN/KHAMOSHIYAN.mp4",
+    "playLink": "http://www.zegomovie.com/Download/KHAMOSHIYAN/KHAMOSHIYAN.mp4"
+    
+  },
+{
+  "movieName":"Yamla Pagla DeeWana 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced0b52db0a6.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/YamlaPaglaDeeWana/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/YamlaPaglaDeeWana/index.m3u8"
+    
+  },
+{
+  "movieName":"Hindi Medium",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced23669466d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/HindiMedium/HindiMedium.mp4",
+    "playLink": "http://www.zegomovie.com/Download/HindiMedium/HindiMedium.mp4"
+    
+  },
+{
+  "movieName":"Singham",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-01/5cf1fee263ca9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Singham/Singham.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Singham/Singham.mp4"
+    
+  },
+{
+  "movieName":"Rabhasa",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-01/5cf2613e7d790.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Rabhasa/Rabhasa.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Rabhasa/Rabhasa.mp4"
+    
+  },
+{
+  "movieName":"A Gentleman",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf659ca7aa63.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/AGentleman/AGentleman.mp4",
+    "playLink": "http://www.zegomovie.com/Download/AGentleman/AGentleman.mp4"
+    
+  },
+{
   "movieName":"Bhool Bhulaiyaa 2",
     "img":"http://zegomovie.com/Uploads/vod/2022-07-18/62d519fd8c625.jpg",
     "downloadLink":"http://www.zegomovie.com/Download/BhoolBhulaiyaa2/BhoolBhulaiyaa2.mp4",
