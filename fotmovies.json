@@ -3,6 +3,55 @@
 
     "type": "China",
     "movies": [
+{
+  "movieName":"The Hero Named Koxinga",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-13/62ce8e811deda.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheHeroNamedKoxinga/TheHeroNamedKoxinga.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheHeroNamedKoxinga/TheHeroNamedKoxinga.mp4"
+    
+  },
+ {
+  "movieName":"Swordsman’s Romance",
+    "img":"http://www.zegomovie.com/Uploads/vod/2022-07-09/62c9483816ccd.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/SwordsmansRomance/SwordsmansRomance.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SwordsmansRomance/SwordsmansRomance.mp4"
+    
+  },
+{
+  "movieName":"Nice View",
+    "img":"http://www.zegomovie.com/Uploads/vod/2022-07-09/62c903b8bece3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/NiceView/NiceView.mp4",
+    "playLink": "http://www.zegomovie.com/Download/NiceView/NiceView.mp4"
+    
+  },
+{
+  "movieName":"Swords Drawn",
+    "img":"http://www.zegomovie.com/Uploads/vod/2022-07-08/62c7963f6b382.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/SwordsDrawn/SwordsDrawn.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SwordsDrawn/SwordsDrawn.mp4"
+    
+  },
+{
+  "movieName":"Touching Gold Captain",
+    "img":"http://www.zegomovie.com/Uploads/vod/2022-07-08/62c795d078910.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TouchingGoldCaptain/TouchingGoldCaptain.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TouchingGoldCaptain/TouchingGoldCaptain.mp4"
+    
+  },
+{
+  "movieName":"The Wolf Witch",
+    "img":"http://www.zegomovie.com/Uploads/vod/2022-07-08/62c792f036a1e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheWolfWitch/TheWolfWitch.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheWolfWitch/TheWolfWitch.mp4"
+    
+  },
+{
+  "movieName":"Blind War",
+    "img":"http://www.zegomovie.com/Uploads/vod/2022-07-08/62c78f6d9c991.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/BlindWar/BlindWar.mp4",
+    "playLink": "http://www.zegomovie.com/Download/BlindWar/BlindWar.mp4"
+    
+  },
     
     {
   "movieName":"Piercing Heart Sword",
