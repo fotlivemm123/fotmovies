@@ -214,6 +214,55 @@
 
     "type": "India",
     "movies": [
+{
+  "movieName":"Bhool Bhulaiyaa 2",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-18/62d519fd8c625.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/BhoolBhulaiyaa2/BhoolBhulaiyaa2.mp4",
+    "playLink": "http://www.zegomovie.com/Download/BhoolBhulaiyaa2/BhoolBhulaiyaa2.mp4"
+    
+  },
+ {
+  "movieName":"http://zegomovie.com/Uploads/vod/2022-07-08/62c79712b514c.jpg",
+    "img":"O2",
+    "downloadLink":"http://www.zegomovie.com/Download/O2/O2.mp4",
+    "playLink": "http://www.zegomovie.com/Download/O2/O2.mp4"
+    
+  },
+{
+  "movieName":"CBI 5: The Brain",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c796059c50e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/CBI5TheBrain/CBI5TheBrain.mp4",
+    "playLink": "http://www.zegomovie.com/Download/CBI5TheBrain/CBI5TheBrain.mp4"
+    
+  },
+{
+  "movieName":"Trikonam",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c79556153ee.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Trikonam/Trikonam.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Trikonam/Trikonam.mp4"
+    
+  },
+{
+  "movieName":"Jayeshbhai Jordaar",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c794dc18481.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/JayeshbhaiJordaar/JayeshbhaiJordaar.mp4",
+    "playLink": "http://www.zegomovie.com/Download/JayeshbhaiJordaar/JayeshbhaiJordaar.mp4"
+    
+  },
+{
+  "movieName":"Don",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c79470a678e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/Don2022/Don2022.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Don2022/Don2022.mp4"
+    
+  },
+{
+  "movieName":"Twenty One Hours",
+    "img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c79345248a1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TwentyOneHours/TwentyOneHours.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TwentyOneHours/TwentyOneHours.mp4"
+    
+  },
   {
 
   "movieName":"Anek",
