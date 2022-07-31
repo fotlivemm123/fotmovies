@@ -1,7 +1,7 @@
 [
     {
 
-    "type": "China",
+    "type": "Jacking Chan",
     "movies": [
 {
   "movieName":"Police Story 2",
@@ -192,7 +192,22 @@
     "downloadLink":"http://www.zegomovie.com/Download/TheMyth/TheMyth.mp4",
     "playLink": "http://www.zegomovie.com/Download/TheMyth/TheMyth.mp4"
     
-  },
+  }
+]
+},
+
+
+
+
+
+
+
+
+    {
+
+    "type": "China",
+    "movies": [
+
 {
   "movieName":"The Hero Named Koxinga",
     "img":"http://zegomovie.com/Uploads/vod/2022-07-13/62ce8e811deda.jpg",
