@@ -46,6 +46,49 @@
     
   },
 {
+  "movieName":"Rush Hour 2",
+    "img":"http://www.zegomovie.com/Uploads/vod/2019-06-15/5d04748624a35.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/RushHour2/RushHour2.mp4",
+    "playLink": "http://www.zegomovie.com/Download/RushHour2/RushHour2.mp4"
+    
+  },
+ {
+  "movieName":"Rob B Hood",
+    "img":"http://www.zegomovie.com/Uploads/vod/2019-05-30/5cef5b1320e22.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/RobBHood/RobBHood.mp4",
+    "playLink": "http://www.zegomovie.com/Download/RobBHood/RobBHood.mp4"
+    
+  },
+{
+  "movieName":"Rush Hour 3",
+    "img":"http://www.zegomovie.com/Uploads/vod/2019-06-13/5d020f8e39d5a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/RushHour3/RushHour3.mp4",
+    "playLink": "http://www.zegomovie.com/Download/RushHour3/RushHour3.mp4"
+    
+  },
+{
+  "movieName":"Who Am I",
+    "img":"http://www.zegomovie.com/Uploads/vod/2019-05-29/5cedfe0ad6225.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/WhoAmI/WhoAmI.mp4",
+    "playLink": "http://www.zegomovie.com/Download/WhoAmI/WhoAmI.mp4"
+    
+  },
+{
+  "movieName":"New Police Story",
+    "img":"http://www.zegomovie.com/Uploads/vod/2019-06-03/5cf4ee859b30d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/NewPoliceStory/NewPoliceStory.mp4",
+    "playLink": "http://www.zegomovie.com/Download/NewPoliceStory/NewPoliceStory.mp4"
+    
+  },
+{
+  "movieName":"Wheels on Meals",
+    "img":"http://www.zegomovie.com/Uploads/vod/2019-05-30/5cef6f4cdc8e4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/WheelsonMeals/WheelsonMeals.mp4",
+    "playLink": "http://www.zegomovie.com/Download/WheelsonMeals/WheelsonMeals.mp4"
+    
+  },
+
+{
   "movieName":"Shinjuku Incident",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0736fbea4b0.jpg",
     "downloadLink":"http://www.zegomovie.com/Download/ShinjukuIncident/ShinjukuIncident.mp4",
