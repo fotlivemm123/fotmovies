@@ -32,6 +32,55 @@
     
   },
 {
+  "movieName":"Mr Nice Guy",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d046fa2521b8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/MrNiceGuy/MrNiceGuy.mp4",
+    "playLink": "http://www.zegomovie.com/Download/MrNiceGuy/MrNiceGuy.mp4"
+    
+  },
+ {
+  "movieName":"Snake In The Eagle's Shadow",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d072fa670221.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/SnakeInTheEaglesShadow/SnakeInTheEaglesShadow.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnakeInTheEaglesShadow/SnakeInTheEaglesShadow.mp4"
+    
+  },
+{
+  "movieName":"Shinjuku Incident",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0736fbea4b0.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/ShinjukuIncident/ShinjukuIncident.mp4",
+    "playLink": "http://www.zegomovie.com/Download/ShinjukuIncident/ShinjukuIncident.mp4"
+    
+  },
+{
+  "movieName":"Shanghai Knights",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-30/5cefcb93e9b63.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/ShanghaiKnights/ShanghaiKnights.mp4",
+    "playLink": "http://www.zegomovie.com/Download/ShanghaiKnights/ShanghaiKnights.mp4"
+    
+  },
+{
+  "movieName":"Little Big Soldier",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d046f281bb1d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/LittleBigSoldier/LittleBigSoldier.mp4",
+    "playLink": "http://www.zegomovie.com/Download/LittleBigSoldier/LittleBigSoldier.mp4"
+    
+  },
+{
+  "movieName":"Railroad Tigers",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-30/5cefc933d851f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/RailroadTigers/RailroadTigers.mp4",
+    "playLink": "http://www.zegomovie.com/Download/RailroadTigers/RailroadTigers.mp4"
+    
+  },
+{
+  "movieName":"1911 Revolution",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-29/5cedfb8d601dd.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/1911/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/1911/index.m3u8"
+    
+  },
+{
   "movieName":"Dragon Forever",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04718bbd184.jpg",
     "downloadLink":"http://www.zegomovie.com/Download/DragonForever/DragonForever.mp4",
