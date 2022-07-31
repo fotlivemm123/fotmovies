@@ -4,6 +4,55 @@
     "type": "China",
     "movies": [
 {
+  "movieName":"Police Story 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d046b317b335.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/PoliceStory2/PoliceStory2.mp4",
+    "playLink": "http://www.zegomovie.com/Download/PoliceStory2/PoliceStory2.mp4"
+    
+  },
+ {
+  "movieName":"The Spy Next Door",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0722070e128.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheSpyNextDoor/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheSpyNextDoor/index.m3u8"
+    
+  },
+{
+  "movieName":"The Fearless Hyena",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04b6cb16884.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/TheFearlessHyena/TheFearlessHyena.mp4",
+    "playLink": "http://www.zegomovie.com/Download/TheFearlessHyena/TheFearlessHyena.mp4"
+    
+  },
+{
+  "movieName":"Spiritual Kung Fu",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf62f828a110.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/SpiritualKungFu/SpiritualKungFu.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SpiritualKungFu/SpiritualKungFu.mp4"
+    
+  },
+{
+  "movieName":"Dragon Forever",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04718bbd184.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/DragonForever/DragonForever.mp4",
+    "playLink": "http://www.zegomovie.com/Download/DragonForever/DragonForever.mp4"
+    
+  },
+{
+  "movieName":"Police Story 3 Super Cop",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d046e5deb31f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/PoliceStory3SuperCop/PoliceStory3SuperCop.mp4",
+    "playLink": "http://www.zegomovie.com/Download/PoliceStory3SuperCop/PoliceStory3SuperCop.mp4"
+    
+  },
+{
+  "movieName":"Shanghai Noon",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-30/5cef8da43c229.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/ShanghaiNoon/ShanghaiNoon.mp4",
+    "playLink": "http://www.zegomovie.com/Download/ShanghaiNoon/ShanghaiNoon.mp4"
+    
+  },
+{
   "movieName":"First Strike",
     "img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced043163fb3.jpg",
     "downloadLink":"http://www.zegomovie.com/Download/FirstStrike/FirstStrike.mp4",
