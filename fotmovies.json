@@ -1,13 +1,160 @@
 [
     {
 
-    "type": "Jackie Chan",
+    "type": "Stephen Chow & Jackie Chan",
     "movies": [
+{
+  "movieName":"Kung Fu Hustle",
+    "img":"http://zegomovie.com/Uploads/vod/2019-08-26/5d639dd83d5a4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/KungFuHustle/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KungFuHustle/index.m3u8"
+    
+  },
+ {
+  "movieName":"Fist of Fury",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-30/5cefb6af0cd4d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FistofFury/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FistofFury/index.m3u8"
+    
+  },
+{
+  "movieName":"The God Of Cookery",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf639d71650c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheGodOfCookery/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheGodOfCookery/index.m3u8"
+    
+  },
+{
+  "movieName":"Fight Back to School II",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf5f45c3dbee.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FightBacktoSchoolII/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FightBacktoSchoolII/index.m3u8"
+    
+  },
+{
+  "movieName":"Flirting Scholar",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-25/5d11bd883d5ae.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FlirtingScholar/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FlirtingScholar/index.m3u8"
+    
+  },
+{
+  "movieName":"Fight Back to School",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf5f3b2ee41f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FightBacktoSchool/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FightBacktoSchool/index.m3u8"
+    
+  },
+{
+  "movieName":"Journey to the West Conquering the De...",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-30/5cefa944c7d54.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/JourneytotheWestConqueringtheDemons/JourneytotheWestConqueringtheDemons.mp4",
+    "playLink": "http://www.zegomovie.com/Download/JourneytotheWestConqueringtheDemons/JourneytotheWestConqueringtheDemons.mp4"
+    
+  },
 {
   "movieName":"Police Story 2",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d046b317b335.jpg",
     "downloadLink":"http://www.zegomovie.com/Download/PoliceStory2/PoliceStory2.mp4",
     "playLink": "http://www.zegomovie.com/Download/PoliceStory2/PoliceStory2.mp4"
+    
+  },
+{
+  "movieName":"When Fortune Smiles",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-25/5d11ccf1baefc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/WhenFortuneSmiles/WhenFortuneSmiles.mp4",
+    "playLink": "http://www.zegomovie.com/Download/WhenFortuneSmiles/WhenFortuneSmiles.mp4"
+    
+  },
+ {
+  "movieName":"Shaolin Soccer",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d0470ff84ed5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ShaolinSoccer/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ShaolinSoccer/index.m3u8"
+    
+  },
+{
+  "movieName":"God of Gamblers III Back to Shanghai",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-14/5d037fd233cb3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GodofGamblersIIIBacktoShanghai/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GodofGamblersIIIBacktoShanghai/index.m3u8"
+    
+  },
+{
+  "movieName":"God of Gamblers II",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d0479f24b285.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GodofGamblersII/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GodofGamblersII/index.m3u8"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+ {
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
     
   },
  {
