@@ -113,6 +113,48 @@
 
     "type": "Recently Added",
    "movies": [
+          {
+  "movieName":"Gullivers Travels",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8e8453123c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GulliversTravels/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GulliversTravels/index.m3u8"
+    
+  },
+         {
+  "movieName":"Whisper of the Heart",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8ef365f9ce.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/WhisperoftheHeart22/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WhisperoftheHeart22/index.m3u8"
+    
+  },
+         {
+  "movieName":"Biosphere",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8eb372f9d8.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Biosphere23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Biosphere23/index.m3u8"
+    
+  },
+         {
+  "movieName":"CrossTheBattlefield",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8ebfa99265.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/FraudCrackdownUnknownCaller18/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FraudCrackdownUnknownCaller18/index.m3u8"
+    
+  },
+         {
+  "movieName":"Cross The Battlefield",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8e5e97fa6c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CrossTheBattlefield/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CrossTheBattlefield/index.m3u8"
+    
+  },
+         {
+  "movieName":"Horror Novelist",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8e48f8be45.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/HorrorNovelist/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/HorrorNovelist/index.m3u8"
+    
+  },
             {
   "movieName":"The Last Subway",
     "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c2238226e02.jpg",
@@ -254,48 +296,7 @@
     
   },
         
-         {
-  "movieName":"Gullivers Travels",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8e8453123c.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/GulliversTravels/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/GulliversTravels/index.m3u8"
-    
-  },
-         {
-  "movieName":"Whisper of the Heart",
-    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8ef365f9ce.png",
-    "downloadLink":"http://www.zegomovie.com/Videos/WhisperoftheHeart22/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/WhisperoftheHeart22/index.m3u8"
-    
-  },
-         {
-  "movieName":"Biosphere",
-    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8eb372f9d8.png",
-    "downloadLink":"http://www.zegomovie.com/Videos/Biosphere23/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Biosphere23/index.m3u8"
-    
-  },
-         {
-  "movieName":"CrossTheBattlefield",
-    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8ebfa99265.png",
-    "downloadLink":"http://www.zegomovie.com/Videos/FraudCrackdownUnknownCaller18/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/FraudCrackdownUnknownCaller18/index.m3u8"
-    
-  },
-         {
-  "movieName":"Cross The Battlefield",
-    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8e5e97fa6c.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/CrossTheBattlefield/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/CrossTheBattlefield/index.m3u8"
-    
-  },
-         {
-  "movieName":"Horror Novelist",
-    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8e48f8be45.png",
-    "downloadLink":"http://www.zegomovie.com/Videos/HorrorNovelist/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/HorrorNovelist/index.m3u8"
-    
-  },
+       
          {
   "movieName":"The Blackwell Ghost 7",
     "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8bcc1f060a.png",
