@@ -111,8 +111,79 @@
 
      {
 
-    "type": "Last Uploads",
+    "type": "Recently Added",
    "movies": [
+            {
+  "movieName":"Dive",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c22b9b2950d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Dive22/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Dive22/index.m3u8"
+    
+  },
+              {
+  "movieName":"Summoning Sylvia",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b907c672c2c.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/SummoningSylvia23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SummoningSylvia23/index.m3u8"
+    
+  },
+              {
+  "movieName":"Ghost Town",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c2328eacf36.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GhostTown23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GhostTown23/index.m3u8"
+    
+  },
+              {
+  "movieName":"Alabama Rose",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c231ec74651.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AlabamaRose22/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AlabamaRose22/index.m3u8"
+    
+  },
+             {
+  "movieName":"People Like Us",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c23135839f9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PeopleLikeUs12/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PeopleLikeUs12/index.m3u8"
+    
+  },
+               {
+  "movieName":"Fireflies in the Sun",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c230aa7c80f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FirefliesintheSun2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FirefliesintheSun2/index.m3u8"
+    
+  },
+             {
+  "movieName":"Day Zero",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c230014567b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DayZero22/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DayZero22/index.m3u8"
+    
+  },
+           {
+  "movieName":"Epitaph",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c22f5f1ecbf.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Epitaph07/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Epitaph07/index.m3u8"
+    
+  },
+            {
+  "movieName":"Imani",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c22e8b4104b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Imani23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Imani23/index.m3u8"
+    
+  },
+          {
+  "movieName":"Shin Kamen Rider",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c22c5459f32.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ShinKamenRider23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ShinKamenRider23/index.m3u8"
+    
+  },
+        
          {
   "movieName":"Gullivers Travels",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8e8453123c.jpg",
