@@ -96,6 +96,125 @@
     "type": "Recently Added",
    "movies": [
         {
+  "movieName":"Hoon Payon",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8b85b0c94a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/HoonPayon23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/HoonPayon23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Custody",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-12/648695ad3ac21.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Custody23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Custody23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Gurdians of The Galaxy Volume 3",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-10/645b2421e42ac.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/GuardiansOfTheGalaxyVolume3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GuardiansOfTheGalaxyVolume3/index.m3u8"
+    
+  },
+        {
+  "movieName":"Kranti",
+    "img":"http://zegomovie.com/Uploads/vod/2023-02-24/63f8976f67971.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Kranti/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Kranti/index.m3u8"
+    
+  },
+        {
+  "movieName":"Kathal",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-22/646aed73c637a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Kathal/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Kathal/index.m3u8"
+    
+  },
+        {
+  "movieName":"Ghosty",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-18/643e3f0f27ade.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ghosty23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ghosty23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Virupaksha",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-22/646af156ecc00.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Virupaksha/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Virupaksha/index.m3u8"
+    
+  },
+        {
+  "movieName":"Jung_E",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-21/63cb96312fbe3.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/JUNG/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JUNG/index.m3u8"
+    
+  },
+        {
+  "movieName":"Warhorse One",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-10/64ab92ebe0946.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/WarhorseOne23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WarhorseOne23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Sakra",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-30/63d76740da563.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Sakra/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Sakra/index.m3u8"
+    
+  },
+        {
+  "movieName":"Hatchet 2",
+    "img":"http://zegomovie.com/Uploads/vod/2023-08-07/64d0c11c2dd93.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/HatchetII10/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/HatchetII10/index.m3u8"
+    
+  },
+        {
+  "movieName":"The Father Who Moves Mountain",
+    "img":"http://zegomovie.com/Uploads/vod/2023-08-09/64d316e86afac.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheFatherWhoMovesMountains21/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheFatherWhoMovesMountains21/index.m3u8"
+    
+  },
+        {
+  "movieName":"Detrimental",
+    "img":"http://zegomovie.com/Uploads/vod/2023-08-09/64d315558afd8.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Detrimental23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Detrimental23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Wolf Garden",
+    "img":"http://www.zegomovie.com/Uploads/vod/2023-06-07/64805ba83b7b9.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/WolfGarden/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WolfGarden/index.m3u8"
+    
+  },
+        {
+  "movieName":"4 Kings",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-27/63aab95981323.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/4Kings/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/4Kings/index.m3u8"
+    
+  },
+        {
+  "movieName":"Spy",
+    "img":"http://zegomovie.com/Uploads/vod/2023-08-07/64d068fbe134c.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Spy23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Spy23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Golden Kingdom",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8da470997f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GoldenKingdom/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GoldenKingdom/index.m3u8"
+    
+  },
+        {
   "movieName":"Gangnam Zombies",
     "img":"http://zegomovie.com/Uploads/vod/2023-03-08/64084e1c2899e.png",
     "downloadLink":"http://www.zegomovie.com/Videos/GangnamZombies/index.m3u8",
