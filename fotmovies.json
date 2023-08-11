@@ -95,6 +95,54 @@
 
     "type": "Recently Added",
    "movies": [
+        {
+  "movieName":"Vaathi",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-18/64156d436d2fa.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Vaathi/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Vaathi/index.m3u8"
+    
+  },
+        {
+  "movieName":"Purusha Pretham",
+    "img":"http://zegomovie.com/Uploads/vod/2023-08-07/64d0b68026dd6.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/PurushaPretham23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PurushaPretham23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Bholaa (2023)",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-12/645da9ca5dd90.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Bholaa23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Bholaa23/index.m3u8"
+    
+  },{
+  "movieName":"The Flash (2023)",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-20/64912e123b01b.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheFlash23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheFlash23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Raaghu (2023)",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-07/64804879bffcb.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Raaghu/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Raaghu/index.m3u8"
+    
+  },
+        {
+  "movieName":"The Black Demon (2023)",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-07/647feb78bba74.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/The%20Black%20Demon/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/The%20Black%20Demon/index.m3u8"
+    
+  },
+        {
+  "movieName":"Headhunter (2023)",
+    "img":"http://zegomovie.com/Uploads/vod/2023-08-08/64d1f3eb9daa4.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Headhunter23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Headhunter23/index.m3u8"
+    
+  },
           {
   "movieName":"Gullivers Travels",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8e8453123c.jpg",
