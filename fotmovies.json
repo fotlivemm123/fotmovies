@@ -30,13 +30,7 @@
     "playLink": "http://www.zegomovie.com/Videos/TheBoyWhoHarnessedtheWind/index.m3u8"
     
   },
-        {
-  "movieName":"Avatar: The Way of Water (2022)",
-    "img":"http://mycinema.asia/image//20221227/avatar_13666.jpg",
-    "downloadLink":"http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8",
-    "playLink": "http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8"
-    
-  },
+     
 {
   "movieName":"Whitney,a look Back",
     "img":"http://zegomovie.com/Uploads/vod/2022-05-11/627b817ca9e73.jpg",
@@ -58,20 +52,8 @@
     "playLink": "http://www.zegomovie.com/Videos/ThankGod/index.m3u8"
     
   },
-           {
-  "movieName":"A Thousand Words(2012)",
-    "img":"https://m.media-amazon.com/images/M/MV5BMTAzODAwODkwMjBeQTJeQWpwZ15BbWU3MDI4MDE3NDc@._V1_.jpg",
-    "downloadLink":"https://ko.htay2.workers.dev/0:/Movies%20&%20Series/Movies/-A-Z/A/(CM)%20A.Thousand.Words.2012.mp4",
-    "playLink": "https://ko.htay2.workers.dev/0:/Movies%20&%20Series/Movies/-A-Z/A/(CM)%20A.Thousand.Words.2012.mp4"
-    
-  },
-          {
-  "movieName":"House of flying dagger",
-    "img":"https://m.media-amazon.com/images/M/MV5BMWYzM2JmOWItN2IxZC00MmFjLWEyMTQtYTQ2ODBiNjRlYmZlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
-    "downloadLink":"https://ko.htay2.workers.dev/0:/-Htay/Movies%20&%20Series/Movies/-A-Z/H/House%20of%20Flying%20Daggers%20(2004).mp4",
-    "playLink": "https://ko.htay2.workers.dev/0:/-Htay/Movies%20&%20Series/Movies/-A-Z/H/House%20of%20Flying%20Daggers%20(2004).mp4"
-    
-  },
+          
+     
         {
   "movieName":"Now You See Me",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-18/5d08689da34e3.jpg",
@@ -8438,21 +8420,21 @@
 {
   "movieName":"Stand by me Doraemon 2",
     "img":"http://zegomovie.com/Uploads/vod/2021-04-23/6082a2f16f614.jpg",
-    "downloadLink":"http://www.zegomovie.com/Download/StandbymeDoraemon2/StandbymeDoraemon2.mp4",
+    "downloadLink":"http://www.zegomovie.com/Videos/StandbymeDoraemon2/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/StandbymeDoraemon2/index.m3u8"
     
   },
  {
   "movieName":"Stand by Me Doraemon",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04e620673a1.jpg",
-    "downloadLink":"http://www.zegomovie.com/Download/StandbyMeDoraemon/StandbyMeDoraemon.mp4",
+    "downloadLink":"http://www.zegomovie.com/Videos/StandbyMeDoraemon/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/StandbyMeDoraemon/index.m3u8"
     
   },
 {
   "movieName":"Doraemon the Movie Nobitas Treasure I",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-22/5d0dc96c5a2c4.jpg",
-    "downloadLink":"http://www.zegomovie.com/Download/DoraemontheMovieNobitasTreasureIsland/DoraemontheMovieNobitasTreasureIsland.mp4",
+    "downloadLink":"http://www.zegomovie.com/Videos/DoraemontheMovieNobitasTreasureIsland/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/DoraemontheMovieNobitasTreasureIsland/index.m3u8"
     
   },
@@ -8473,7 +8455,7 @@
 {
   "movieName":"Looop Lapeta",
     "img":"http://zegomovie.com/Uploads/vod/2022-02-19/621078b021361.jpg",
-    "downloadLink":"0",
+    "downloadLink":"http://www.zegomovie.com/Videos/LooopLapeta/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/LooopLapeta/index.m3u8"
     
   },
