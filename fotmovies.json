@@ -96,6 +96,167 @@
     "type": "Recently Added",
    "movies": [
         {
+  "movieName":"Gangnam Zombies",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-08/64084e1c2899e.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/GangnamZombies/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GangnamZombies/index.m3u8"
+    
+  },
+        {
+  "movieName":"The Mother",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-13/645f31dbe1c25.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheMother/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheMother/index.m3u8"
+    
+  },
+        {
+  "movieName":"Ghosted",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-23/6444af03775c9.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ghosted/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ghosted/index.m3u8"
+    
+  },
+        {
+  "movieName":"Shaakuntalam",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-12/645e088e35cd3.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Shaakuntalam/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Shaakuntalam/index.m3u8"
+    
+  },
+        {
+  "movieName":"Veeram",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-12/64869c1a74b50.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Veeram/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Veeram/index.m3u8"
+    
+  },
+        {
+  "movieName":"Agilan",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-06/64a645d9148ef.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Agilanee/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Agilanee/index.m3u8"
+    
+  },
+        {
+  "movieName":"Meter",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-06/64560e1361eff.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Meter23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Meter23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Ravanasura",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-29/644cf4167bd10.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ravanasura/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ravanasura/index.m3u8"
+    
+  },
+        {
+  "movieName":"Bawaal",
+    "img":"http://zegomovie.com/Uploads/vod/2023-07-27/64c22aa4b0263.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Bawaal23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Bawaal23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Thunivu",
+    "img":"http://zegomovie.com/Uploads/vod/2023-02-09/63e4b3ac59f17.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Thunivu/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Thunivu/index.m3u8"
+    
+  },
+        {
+  "movieName":"Ponniyin Selvan : Part 2",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-27/64718fd61a04d.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/PonniyinSelvan2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PonniyinSelvan2/index.m3u8"
+    
+  },
+        {
+  "movieName":"Dasara",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-29/644cbda6a5f86.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Dasara2023/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Dasara2023/index.m3u8"
+    
+  },
+        {
+  "movieName":"Maruthi Nagar Police Station",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-20/646854504b631.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/MaruthiNagarPoliceStation/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MaruthiNagarPoliceStation/index.m3u8"
+    
+  },
+        {
+  "movieName":"The Ying Yang Overcross Man",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-06/647ea93997979.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheYingYangCrossoverMan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheYingYangCrossoverMan/index.m3u8"
+    
+  },
+        {
+  "movieName":"Ant-Man and the Wasp:Quantumania",
+    "img":"http://zegomovie.com/Uploads/vod/2023-02-21/63f4a3dbc6ea4.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ant-ManandtheWaspQuantumania/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ant-ManandtheWaspQuantumania/index.m3u8"
+    
+  },
+        {
+  "movieName":"Veera Simha Reddy",
+    "img":"http://zegomovie.com/Uploads/vod/2023-02-25/63f9bf96e2767.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/VeeraSimhaReddy/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/VeeraSimhaReddy/index.m3u8"
+    
+  },
+        {
+  "movieName":"Bloodhounds",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-14/648998febf096.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/BloodhoundsEp1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BloodhoundsEp1/index.m3u8"
+    
+  },
+        {
+  "movieName":"John Wick : Chapter 4",
+    "img":"http://zegomovie.com/Uploads/vod/2023-05-24/646d90ec9e183.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/JohnWickChapter4/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JohnWickChapter4/index.m3u8"
+    
+  },
+        {
+  "movieName":"FARZIE",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-12/6486b7cf258ef.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/FARZIEP1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FARZIEP1/index.m3u8"
+    
+  },
+        {
+  "movieName":"Extration (2023)",
+    "img":"http://zegomovie.com/Uploads/vod/2023-06-17/648d38530f44a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Extraction2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Extraction2/index.m3u8"
+    
+  },
+        {
+  "movieName":"65",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-08/64313ea2c306e.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/652023/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/652023/index.m3u8"
+    
+  },
+        {
+  "movieName":"Rudrangi (2023)",
+    "img":"http://zegomovie.com/Uploads/vod/2023-08-07/64d0aa6cc5d3e.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Rudrangi23/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Rudrangi23/index.m3u8"
+    
+  },
+        {
+  "movieName":"Shazam ! Fury of the Gods",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-08/64310f73d5eeb.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/ShazamFuryoftheGods/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ShazamFuryoftheGods/index.m3u8"
+    
+  },
+        {
   "movieName":"Vaathi",
     "img":"http://zegomovie.com/Uploads/vod/2023-03-18/64156d436d2fa.png",
     "downloadLink":"http://www.zegomovie.com/Videos/Vaathi/index.m3u8",
