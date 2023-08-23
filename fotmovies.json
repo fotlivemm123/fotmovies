@@ -2,6 +2,20 @@
      {
         "type": "Users Request Movies",
    "movies": [
+           {
+  "movieName":"Kingsman : The Golden Circle",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-11/63be86b799783.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/KingsmanTheGoldenCircle/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KingsmanTheGoldenCircle/index.m3u8"
+    
+  },
+           {
+  "movieName":"KingsMan: The Secret Service",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-22/5ce53375d189d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/KingsManSecretService/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KingsManSecretService/index.m3u8"
+    
+  },
          {
   "movieName":"Ride On",
     "img":"http://zegomovie.com/Uploads/vod/2023-06-05/647d6fe40ce01.png",
